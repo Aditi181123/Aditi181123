@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aditi181123
+- 👋 Hi, I’m @Aditi
 - 👀 I’m interested in coding and drawing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development with backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanuaditi04@gmail.com
 - 😄 Pronouns: she
